@@ -1,0 +1,19 @@
+.list {
+  margin: 0 1rem;
+}
+
+.special {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.icon {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.llist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
